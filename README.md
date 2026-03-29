@@ -19,9 +19,9 @@
 
 ## 👤 About
 
-Biostatistician and health data scientist with **8+ years** of experience in clinical and epidemiological research. I work at the intersection of rigorous statistical methodology and clinical medicine, with applications spanning cardiovascular disease, diabetes, pulmonology, COVID-19 epidemiology, glycomics, and spatial statistics.
+Biostatistician and health data scientist with **8+ years** of experience in clinical and epidemiological research. I work at the intersection of rigorous statistical methodology and clinical medicine, with applications spanning cardiovascular disease, diabetes, pulmonology, glycomics, and spatial statistics.
 
-Based at **CHUS / IDIS Santiago de Compostela** · Professor at **Universidad de Oviedo** (DiabeTECH MSc).
+Based at **Gijón** · Professor at **Universidad de Oviedo**.
 
 ---
 
