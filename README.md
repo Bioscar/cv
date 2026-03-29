@@ -2,8 +2,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║          OSCAR LADO-BALEATO · BIOSTATISTICIAN                ║
-║          Health Data Scientist · R Developer                 ║
+║          ÓSCAR LADO-BALEATO · ClINICAL BIOSTATISTICIAN       ║
+║          Statistical Methologist · R Developer               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
