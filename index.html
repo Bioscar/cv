@@ -449,7 +449,40 @@
     margin-top: 3px;
   }
 
-   /* ── SUPERVISION ── */
+<style>
+  /* ── SUPERVISION ── */
+  .phd-student-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+  }
+
+  .super-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    padding: 18px;
+    border-top: 3px solid var(--accent);
+  }
+
+  .super-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+
+  .super-name {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--accent2);
+    margin-bottom: 6px;
+  }
+
+  .super-detail {
+    font-size: 13px;
+    color: var(--ink);
+  }
+</style>
 
 <section id="phd-student">
   <div class="section-header">
@@ -778,7 +811,6 @@
         <td>1</td>
         <td class="citations-num">1</td>
       </tr>
-      <tr style="background:rgba(192,57,43,.05); border-left:3px solid var(--accent);">
         <td><strong>The R Journal</strong></td>
         <td><span class="journal-field">Statistics / CS</span></td>
         <td>1</td>
